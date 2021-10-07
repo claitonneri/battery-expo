@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "battery-info",
+    "slug": "battery-info",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "battery-info"
+}
